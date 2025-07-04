@@ -1,0 +1,10 @@
+body {background-color: yellowgreen}
+h1 {text-align: center; color:purple}
+p {font-size: x-large; text-align: justify;}
+li {
+  margin-bottom: 10px; /* Adiciona espaço abaixo de cada item */
+}
+
+.paracss {border-radius: 20px;}
+.botao {background-color:cyan;}
+.botao:hover {background-color:deeppink;}
